@@ -1,3 +1,4 @@
+libkkc/keymap.c
 libkkc/keymap.vala
 tools/kkc.vala
 data/rules/tutcode/metadata.pot
